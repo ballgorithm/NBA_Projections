@@ -4,7 +4,7 @@
 
 ## Overview
 
-The NBA Predictions Project aims to forecast the winners of each NBA game. Utilizing data analysis and predictive modeling, the project provides projections for upcoming games. The predictions will be shared on Twitter via [@rawcodr_](https://twitter.com/rawcodr_). Stay tuned for insights into the outcomes of your favorite NBA matchups!
+The NBA Predictions Project aims to forecast the winners of each NBA game. Utilizing data analysis and predictive modeling, the project provides projections for upcoming games. The predictions will be shared on Twitter via [@ballgorithm](https://twitter.com/ballgorithm). Stay tuned for insights into the outcomes of your favorite NBA matchups!
 
 ## Features
 
