@@ -64,5 +64,5 @@ The NBA data used in this project is sourced from [Basketball Reference](https:/
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: abhishekdhar1991@gmail.com
+- Email: ballgorithm@gmail.com
 - Twitter: [@ballgorithm](https://twitter.com/ballgorithm)
