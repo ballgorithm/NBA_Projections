@@ -4,7 +4,7 @@
 
 ## Overview
 
-The NBA Predictions Project aims to forecast the winners of each NBA game. Utilizing data analysis and predictive modeling, the project provides projections for upcoming games. The predictions will be shared on Twitter via [@rawcodr_](https://twitter.com/rawcodr_). Stay tuned for insights into the outcomes of your favorite NBA matchups!
+The NBA Predictions Project aims to forecast the winners of each NBA game. Utilizing data analysis and predictive modeling, the project provides projections for upcoming games. The predictions will be shared on Twitter via [@ballgorithm](https://twitter.com/ballgorithm). Stay tuned for insights into the outcomes of your favorite NBA matchups!
 
 ## Features
 
@@ -64,5 +64,5 @@ The NBA data used in this project is sourced from [Basketball Reference](https:/
 
 If you have any questions or feedback, feel free to reach out:
 
-- Email: abhishekdhar1991@gmail.com
-- Twitter: [@rawcodr_](https://twitter.com/rawcodr_)
+- Email: ballgorithm@gmail.com
+- Twitter: [@ballgorithm](https://twitter.com/ballgorithm)
