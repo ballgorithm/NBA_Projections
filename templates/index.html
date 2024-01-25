@@ -1,0 +1,22 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'styles.css') }}" />
+    <title>NBA Game Prediction</title>
+  </head>
+  <body>
+    <h1>NBA Game Prediction</h1>
+    <form method="post" action="/">
+      <label for="awayTeam">Away Team:</label>
+      <input type="text" id="awayTeam" name="awayTeam" required />
+      <br />
+      <label for="homeTeam">Home Team:</label>
+      <input type="text" id="homeTeam" name="homeTeam" required />
+      <br />
+      <input type="submit" value="Predict" />
+    </form>
+  </body>
+</html>
