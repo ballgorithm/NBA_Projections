@@ -54,7 +54,7 @@ The NBA Predictions Project aims to forecast the winners of each NBA game. Utili
 
 ### Usage
 Ensure you have the required dependencies installed:
-pip install pandas scikit-learn colorama prettytable```
+pip install pandas scikit-learn colorama prettytable
 
 ## Prerequisites
 
