@@ -44,7 +44,17 @@ The NBA Predictions Project aims to forecast the winners of each NBA game. Utili
 
 - **Console Display:** Prints the final table to the console, showing matchups and predicted winners.
 
+## Ballgorithm NBA Projection Model v1.1
 
+### Changes
+- Updated prediction algorithm to consider team win-loss records.
+- Implemented color-coding for projected winners based on win percentage.
+- Fixed formatting issues in PrettyTable display.
+- Adjusted color codes for better readability.
+
+### Usage
+Ensure you have the required dependencies installed:
+pip install pandas scikit-learn colorama prettytable```
 
 ## Prerequisites
 
