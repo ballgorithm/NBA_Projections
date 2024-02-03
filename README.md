@@ -61,7 +61,7 @@ pip install pandas scikit-learn colorama prettytable
 List any dependencies or prerequisites that users need to install before using your project.
 
 - Python 3.x
-- Required Python packages (list them)
+- Required Python packages (pip install pandas scikit-learn colorama prettytable)
 
 
 ## Acknowledgments
