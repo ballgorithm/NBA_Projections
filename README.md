@@ -59,7 +59,7 @@ pip install pandas, scikit-learn, colorama, prettytable
 
 ## Prerequisites
 
-Dependencies or prerequisites that users need to install before using your project.
+Dependencies or prerequisites.
 
 - Python 3.x
 - Required Python packages (pip install pandas, scikit-learn, colorama, prettytable)
