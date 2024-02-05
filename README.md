@@ -52,6 +52,11 @@ The NBA Predictions Project aims to forecast the winners of each NBA game. Utili
 - Fixed formatting issues in PrettyTable display.
 - Adjusted color codes for better readability.
 
+### Files added
+- cumulative_accuracy.ipynb
+- espn_comparison.ipynb
+- espn_comparison.xlsx
+
 ### Usage
 Ensure you have the required dependencies installed:
 pip install pandas, scikit-learn, colorama, prettytable
