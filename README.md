@@ -44,7 +44,7 @@ The NBA Predictions Project aims to forecast the winners of each NBA game. Utili
 
 - **Console Display:** Prints the final table to the console, showing matchups and predicted winners.
 
-## Ballgorithm NBA Projection Model v1.1
+## Ballgorithm NBA Projection Model v1.1 - Updated on 3rd Feb, 2024.
 
 ### Changes
 - Updated prediction algorithm to consider team win-loss records.
